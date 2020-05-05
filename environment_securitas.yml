@@ -1,0 +1,21 @@
+name: c3d_remediated
+dependencies:
+- python=3.7
+- pip
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- tensorflow = 2.0
+- tensorflow-estimator
+- keras
+- keras-applications
+- keras-preprocessing
+#- sk-video
+- ffmpeg
+- cython
+- scikit-image
+- opencv
+- pip:
+  - pillow
+  - scipy
